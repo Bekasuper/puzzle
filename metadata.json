@@ -1,0 +1,6 @@
+{
+  "name": "Пазлы — Бесконечная головоломка",
+  "description": "Мобильно-адаптированная PWA-игра в классические пазлы с процедурной нарезкой, бесконечными уровнями и офлайн-режимом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
